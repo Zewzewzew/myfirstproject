@@ -1,0 +1,21 @@
+header {
+
+}
+a {
+	color: black;
+	font-size: 25px;
+	margin: 10px;
+	font-family: chicago;
+	text-decoration: none;
+
+}
+.main_menu {
+	text-align: center;
+}
+.logo {
+	margin-left: 150px;
+
+}
+table {
+	border: black;
+}
